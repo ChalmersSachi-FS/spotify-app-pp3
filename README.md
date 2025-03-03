@@ -20,3 +20,6 @@ Before running the project, ensure the following installed:
 ## Getting Started
   ### 1. Clone Repo 
   git clone https://github.com/ChalmersSachi-FS/spotify-app-pp3
+  cd spotify-app-pp3
+
+  ## Finish Creating README.MD |6:12pm|
