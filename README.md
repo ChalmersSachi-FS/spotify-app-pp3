@@ -7,11 +7,10 @@ The app requires user authentication using JWT tokens, the front and backend are
 
 ## Updates:
 
-3/5/2025
-
-- Currently starting to code the project in VS Code.
+<!-- 3/5/2025 Currently starting to code the project in VS Code.
 TIME: 5:59pm Finish Backend within Server folder
-<!-- Setting Up Express Server. -->
+Setting Up Express Server.
+3/7/25 TIME: 12:01pm Currently setting up Backend server, coding my code into VS Code. -->
 
 ## Features:
 
