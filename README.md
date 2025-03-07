@@ -5,14 +5,6 @@
 This project is a music search application integrated with Spotify's REST Web API. Users can search for music, view results, & navigate to the Spotify web player.
 The app requires user authentication using JWT tokens, the front and backend are decoupled with the backend handling authentication & environment variables securely.
 
-## Updates:
-
-3/5/2025
-
-- Currently starting to code the project in VS Code.
-TIME: 5:59pm Finish Backend within Server folder
-<!-- Setting Up Express Server. -->
-
 ## Features:
 
 - User authentication via JWT
@@ -22,15 +14,37 @@ TIME: 5:59pm Finish Backend within Server folder
 - Secure handling of API credentials
 
 ## Prerequisites:
-
-Before running the project, ensure the following installed:
-
 - Node.JS (v16+)
 - NPM or Yarn package manager
 - Spotify Developer Account
 
+## Other Considerations
+  Ports 3000, and 3001 must be open on host OS.
+
 ## Getting Started
+1. git clone https://github.com/ChalmersSachi-FS/spotify-app-pp3
+2. install dependencies npm install
+3.set up environment variables:
+  |SPOTIFY_CLIENT_ID=your_client_id
+  SPOTIFY_CLIENT_SECRET=your_client_secret
+  JWT_SECRET=your_jwt_secret|
+4. start server: cd server npm run dev
+   start client: cd client npm start
+5.  Access the App
+- Local Development: [http://localhost:3000](http://localhost:3000)
+- Backend API: [http://localhost:5000](http://localhost:5000)
+  
+## Links:
 
-### 1. Clone Repo
+- **GitHub Repository**: https://github.com/ChalmersSachi-FS/spotify-app-pp3.git
+- **Spotify Developer Portal**: [https://developer.spotify.com](https://developer.spotify.com)
+- **Live Demo (if applicable)**: [https://your-live-demo-link.com](https://your-live-demo-link.com)
 
-git clone https://github.com/ChalmersSachi-FS/spotify-app-pp3
+
+## Updates:
+
+3/5/2025
+
+- Currently starting to code the project in VS Code.
+TIME: 5:59pm Finish Backend within Server folder
+<!-- Setting Up Express Server. -->
