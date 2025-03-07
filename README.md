@@ -24,24 +24,16 @@ This project is a Spotify Music Search App that integrates with Spotify's REST W
 
 ## Installation
 1. Clone the repository:
-   ```sh
    git clone https://github.com/ChalmersSachi-FS/spotify-app-pp3.git
    cd spotify-music-search
-   ```
 2. Install dependencies:
-   ```sh
    npm install
-   ```
 3. Set up environment variables in a `.env` file:
-   ```env
    SPOTIFY_CLIENT_ID=your_client_id
    SPOTIFY_CLIENT_SECRET=your_client_secret
    JWT_SECRET=your_jwt_secret
-   ```
 4. Start the server:
-   ```sh
    npm start
-   ```
 
 ## Usage
 - Navigate to the application URL
@@ -53,7 +45,6 @@ This project is a Spotify Music Search App that integrates with Spotify's REST W
 
 - **GitHub Repository**: https://github.com/ChalmersSachi-FS/spotify-app-pp3.git
 - **Spotify Developer Portal**: 
-- **Live Demo (if applicable)**:
 
 
 ## Updates:
