@@ -16,11 +16,11 @@ This project is a Spotify Music Search App that integrates with Spotify's REST W
 - **npm** or **yarn** 
 
 ## Backend Software & Dependencies
-- **Express.js** - 
-- **dotenv** - 
-- **jsonwebtoken (JWT)** - 
-- **cors** - 
-- **axios / node-fetch** - 
+- **Express.js**  
+- **dotenv** 
+- **jsonwebtoken (JWT)** 
+- **cors**  
+- **axios / node-fetch** 
 
 ## Installation
 1. Clone the repository:
